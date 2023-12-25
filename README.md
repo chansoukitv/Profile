@@ -4,7 +4,7 @@ A Full Stack Web developer🎯 and designer🎨 from Laos.
 - 👨‍💻 Full Stack MERN Developer
 - 🎥 Learn Web Development <!-- - 🌱 Currently learning Svelte. -->
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me:  -  or 
+- 📫 How to reach me: Email: taytnk11@gmail.com
 - 🎙 Freelance.
 
 **Languages:**  
