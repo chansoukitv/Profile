@@ -1,5 +1,5 @@
 ### Hi there, I'm Tay👦,
-A Full Stack Web developer🎯 and designer🎨 from India.
+A Full Stack Web developer🎯 and designer🎨 from Laos.
 
 - 👨‍💻 Full Stack MERN Developer
 - 🎥 Learn Web Development <!-- - 🌱 Currently learning Svelte. -->
