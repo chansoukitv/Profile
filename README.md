@@ -7,11 +7,12 @@
 [![chansoukitv's github stats](https://github-readme-stats.vercel.app/api?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats) <br/><br/>
 
 ### Most used languages
-![chansoukitv](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&show_icons=true&theme=react)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Code time
-[![chansoukitv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&hide_progress=true)
 <br/>
 
 
@@ -51,14 +52,6 @@
   <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov vuex logo" />
           
 </div>
-
-## Contact
-
-<br />
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><a href="https://t.me/javohirbeks_blog" style="text-decoration:none">📨 My telegram blog</a></td>
-    <td style="border: none;"><a href="https://t.me/javohirbeks_blog" style="text-decoration:none"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov telegram logo t.me/westdev" /></a></td>
-  </tr>
+ 
 </table>
 
