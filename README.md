@@ -1,17 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="javokhirbekkhaydarov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="chansoukitv" /> </p>
 
 ### My contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javokhirbekkhaydarov&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chansoukitv&theme=react)](https://git.io/streak-stats)
 <br/>
 ### My stats
-[![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
+[![chansoukitv's github stats](https://github-readme-stats.vercel.app/api?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats) <br/><br/>
 
 ### Most used languages
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirbekkhaydarov&show_icons=true&theme=react)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&show_icons=true&theme=react)
 
 
 ### Code time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
+[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats)
 <br/>
 
 
@@ -19,7 +19,7 @@
 <div align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=javokhirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
+        src="https://activity-graph.herokuapp.com/graph?username=chansoukitv&custom_title=Javohirbek-Khaydarov&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
     />
 
     
