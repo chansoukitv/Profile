@@ -6,6 +6,7 @@
 ### My stats
 [![chansoukitv's github stats](https://github-readme-stats.vercel.app/api?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats) <br/><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&hide_progress=true)
  
 
 
