@@ -7,7 +7,7 @@
 [![chansoukitv's github stats](https://github-readme-stats.vercel.app/api?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats) <br/><br/>
 
 ### Most used languages
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&show_icons=true&theme=react)
+![chansoukitv](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&show_icons=true&theme=react)
 
 
 ### Code time
