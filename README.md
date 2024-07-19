@@ -11,7 +11,7 @@
 
 
 ### Code time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats)
+[![chansoukitv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats)
 <br/>
 
 
