@@ -8,7 +8,7 @@
 
 ### Most used languages
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv)](https://github.com/chansoukitv/github-readme-stats)
 
 
 ### Code time
