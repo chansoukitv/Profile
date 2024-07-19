@@ -6,25 +6,10 @@
 ### My stats
 [![chansoukitv's github stats](https://github-readme-stats.vercel.app/api?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats) <br/><br/>
 
-### Most used languages
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv)](https://github.com/chansoukitv/github-readme-stats)
+ 
 
 
-### Code time
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&hide_progress=true)
-<br/>
-
-
-
-<div align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=chansoukitv&custom_title=Javohirbek-Khaydarov&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
-    />
-
-    
-</div>
+ 
 
 ### Languages and tools I work with:
 <br />
