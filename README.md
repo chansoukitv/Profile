@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&hide_progress=true)
  
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv)](https://github.com/chansoukitv/github-readme-stats)
 
  
 
