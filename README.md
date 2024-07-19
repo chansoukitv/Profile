@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="chansoukitv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chansoukitv&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="chansoukitv" /> </p>
 
 ### My contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chansoukitv&theme=react)](https://git.io/streak-stats)
