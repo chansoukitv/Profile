@@ -6,16 +6,8 @@
 ### My stats
 [![chansoukitv's github stats](https://github-readme-stats.vercel.app/api?username=chansoukitv&show_icons=true&theme=react)](https://github.com/chansoukitv/github-readme-stats) <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoukitv&hide_progress=true)
  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chansoukitv)](https://github.com/chansoukitv/github-readme-stats)
-
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chansoukitv" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chansoukitv&layout=compact&langs_count=8&card_width=320" />
-</a>
+ 
 
 ### Languages and tools I work with:
 <br />
